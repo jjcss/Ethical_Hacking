@@ -9,7 +9,7 @@
 
 # Ethical Hacking 
 
-Thank you to everyone who joined the Ethical Hacking event. Be sure to create a HackTheBox account and then proceed to the recording below to follow along. Consider spinning up a[ Kali Linux virtual machine]([url](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)) as some operating systems will limit you. 
+Thank you to everyone who joined the Ethical Hacking event. Be sure to create a HackTheBox account and then proceed to the recording below to follow along. Consider spinning up a [Kali Linux virtual machine](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/) as some operating systems will limit you. 
 
 
 Date: October 3rd, 2023 <br>
